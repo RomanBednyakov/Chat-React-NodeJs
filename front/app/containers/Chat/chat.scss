@@ -1,0 +1,25 @@
+.chat {
+  width: 100%;
+  background: darkorchid;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  &_content {
+    margin: 30px;
+  }
+}
+.form-control {
+  width: 200px;
+  height: 20px;
+}
+.card-title {
+  text-align: center;
+  font-size: 30px;
+}
+.messages {
+  background: rebeccapurple;
+  font-size: 20px;
+  color: darkorange;
+
+}
