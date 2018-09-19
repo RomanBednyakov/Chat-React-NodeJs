@@ -21,8 +21,8 @@ Simple and optimized React boilerplate. It includes:
 
 Make sure you have the latest Stable or LTS version of Node.js installed.
 
-2. Run `npm install` or `yarn install`
-3. Start the dev server using `npm start`
+1. Run `npm install` or `yarn install`
+2. Start the dev server using `npm start`
 3. Open [http://localhost:8080](http://localhost:8080)
 
 ## Available Commands
